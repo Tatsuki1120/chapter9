@@ -101,7 +101,7 @@ margin-block-end: 20px;
 }
 
 .step-box:last-child {
-  margin-right: 0;
+  width: 90%;
 }
 
 title {
@@ -143,7 +143,7 @@ margin-block-end: 20px;
 }
 
 .step-box:last-child {
-  margin-right: 0;
+  width: 90%;
 }
 
 title {
@@ -185,7 +185,7 @@ margin-block-end: 20px;
 }
 
 .step-box:last-child {
-  width: 100%;
+  width: 90%;
 }
 
 title {
